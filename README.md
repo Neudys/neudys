@@ -48,10 +48,9 @@ const me = {
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
   <img width="12" />
-  <img src="https://img.icons8.com/ios-filled/50/tailwind-css.png" height="40" alt="Tailwind CSS" />
-
-
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="Tailwind CSS" />
 </div>
+
 
 ---
 
