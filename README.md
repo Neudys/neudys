@@ -28,11 +28,12 @@
 
 ```ts
 const me = {
-  location: "Barcelona, España 🇪🇸",
-  studies: "Desarrollo de Aplicaciones Multiplataforma",
-  passion: "Crear experiencias interactivas en 3D 🎮",
-  funFact: "Uso más stickers que comas 🫠"
+  location: "Barcelona, Spain 🇪🇸",
+  studies: "Multiplatform Application Development",
+  passion: "Creating interactive 3D experiences 🎮",
+  funFact: "I use more stickers than commas 🫠"
 }
+
 ```
 
 ### 👨‍🎨 Frontend Development
