@@ -33,7 +33,7 @@ const me = {
   passion: "Crear experiencias interactivas en 3D 🎮",
   funFact: "Uso más stickers que comas 🫠"
 }
-
+```
 
 ### 🛠️ My Tech Stack
 
