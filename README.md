@@ -23,7 +23,7 @@
 <h1 align="center">Hey there 👋, I'm Neudys</h1>
 
 ---
-### <a href="https://neudysportfolio.netlify.app"> ⚒️ My portfolio <a/>
+### <a href="https://neudysportfolio.netlify.app" target="_blank"> ⚒️ My portfolio <a/>
 
 ### 👨‍💻 About Me
 
