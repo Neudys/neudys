@@ -18,7 +18,6 @@
 I build **interactive 3D experiences** and full-stack applications. Passionate about clean architecture, creative web technologies, and solving real problems with code.
 
 **Current focus:** Backend systems, embedded hardware integration, DevOps patterns  
-**Goal:** Return to Dominican Republic June 2026 with scalable digital products & remote income
 
 <table align="center">
   <tr >
