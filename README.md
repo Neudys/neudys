@@ -17,12 +17,7 @@
 
 I build **interactive 3D experiences** and full-stack applications. Passionate about clean architecture, creative web technologies, and solving real problems with code.
 
-**Current focus:** Backend systems, embedded hardware integration, DevOps patterns  
-
-<table align="center">
-  <tr >
-    <td width="50%" valign="top">
-			
+**Current focus:** Backend systems, embedded hardware integration, DevOps patterns  		
 ## Tech Stack
 
 ### Languages
@@ -82,17 +77,6 @@ I build **interactive 3D experiences** and full-stack applications. Passionate a
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
     </td>
     <td width="50%" valign="top">
-
-## GitHub Stats
-
-<a href="http://www.github.com/neudys"><img src="https://github-readme-streak-stats.herokuapp.com/?user=neudys&stroke=ffffff&background=1c1917&ring=84cc16&fire=84cc16&currStreakNum=ffffff&currStreakLabel=84cc16&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" width="100%" /></a>
-
-<br><br>
-
-<a href="https://github.com/neudys"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neudys&langs_count=10&title_color=84cc16&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" width="100%" /></a>
-    </td>
-  </tr>
-</table>
 
 ---
 
